@@ -1,0 +1,1 @@
+The file csda_appendix.pdf is the web appendix in the text. The .R files replicate all of the results presented in the paper using the LANOVA package available on Github at https://github.com/maryclare/LANOVA. 
